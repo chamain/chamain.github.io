@@ -104,7 +104,9 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  To be added. 😂 
+ I'm a PhD candidate in Electrical & Computer Engineering majoring in Signal processing for Image Analysis and minoring in Machine learning at University of California Davis, USA. I obtained my Masters degree in ECE from UC Davis in 2020 and Bachelors degree from University of Moratuwa, Sri Lanka in 2016 majoring Electronics and Telecommunication.
+ 
+ My research interests align with image/video compression for deep learning, Internet of Things and Information theory. I'm a hiker and a food enthusiast. 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
