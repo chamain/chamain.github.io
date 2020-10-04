@@ -43,7 +43,7 @@ roles:
    start: 2020
    end: 2020
    employer: Interdigital Inc.
-   description: Researched on Video Coding for Machines (VCM). Investigated an end-to-end design of the image/video compression codec optimized for a primary learning task (ex: detection) and the re-usability of the optimized codec for other secondary machine learning tasks such as classification and semantic segmentation. For the latter purpose, I proposed pre-trained connectors with  small number of parameters (81 max) to achieves significantly better rate-accuracy performance compared to the conventional codecs optimized for rate-distortion.
+   description: Researched on Video Coding for Machines (VCM). Investigated an end-to-end design of the image/video compression codec optimized for a primary learning task (ex- detection) and the re-usability of the optimized codec for other secondary machine learning tasks such as classification and semantic segmentation. For the latter purpose, I proposed pre-trained connectors with  small number of parameters (81 max) to achieves significantly better rate-accuracy performance compared to the conventional codecs optimized for rate-distortion.
  - title: Master of Science (M.Sc.)
    start: 2020
    end: 2020
