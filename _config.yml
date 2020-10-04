@@ -73,19 +73,19 @@ coursera:
    courses:
     - title: QuanNet
       link: https://www.coursera.org/course/progfun
-      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/quannet.png
+      optionalimage: img/quannet.png
       date: September 16, 2013
     - title: Wifius
       link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/wifius.png
+      optionalimage: img/wifius.png
       date: April 28, 2014
     - title: Faster J2k Classification
       link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/fasterj2k.png
+      optionalimage: img/fasterj2k.png
       date: April 28, 2014
     - title: Brain Image Registration
       link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/stitch.png
+      optionalimage: img/stitch.png
       date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
