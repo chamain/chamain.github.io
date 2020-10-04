@@ -69,15 +69,23 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://scholar.google.com/citations?user=cQAkxu4AAAAJ&hl=en
    courses:
-    - title: Functional Programming Principles in Scala
+    - title: QuanNet
       link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/quannet.png
       date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
+    - title: Wifius
       link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/wifius.png
+      date: April 28, 2014
+    - title: Faster J2k Classification
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/fasterj2k.png
+      date: April 28, 2014
+    - title: Brain Image Registration
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: https://github.com/chamain/chamain.github.io/blob/master/img/stitch.png
       date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
