@@ -39,16 +39,21 @@ roles:
    end: 2021
    employer: Electrical and Computer Engineering
    description: University of California, Davis
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Research Intern
+   start: 2020
+   end: 2020
+   employer: Interdigital Inc.
+   description: Researched on Video Coding for Machines (VCM). Investigated an end-to-end design of the image/video compression codec optimized for a primary learning task (ex: detection) and the re-usability of the optimized codec for other secondary machine learning tasks such as classification and semantic segmentation. For the latter purpose, I proposed pre-trained connectors with  small number of parameters (81 max) to achieves significantly better rate-accuracy performance compared to the conventional codecs optimized for rate-distortion.
  - title: Master of Science (M.Sc.)
    start: 2020
    end: 2020
    employer: Electrical and Computer Engineering
    description: University of California, Davis
+ - title: Lecturer on Contract
+   start: 2017
+   end: 2017
+   employer: University of Moratuwa, Sri Lanka
+   description: Basic Electronics: Prepared lecture notes and supervised lab sessions 
 
 #Education is required
 education:
