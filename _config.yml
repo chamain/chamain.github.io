@@ -107,9 +107,9 @@ github:
  - chamain/AE-classifier
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+#   profileurl: https://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
  I'm a PhD candidate in Electrical & Computer Engineering majoring in Signal processing for Image Analysis and minoring in Machine learning at University of California Davis, USA. I obtained my Masters degree in ECE from UC Davis in 2020 and Bachelors degree from University of Moratuwa, Sri Lanka in 2016 majoring Electronics and Telecommunication.
