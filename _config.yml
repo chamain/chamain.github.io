@@ -20,6 +20,8 @@ skills:
  - Matlab
  - Image/video compression
  - JPEG2000
+ - Unity
+ - Online MP game developement
  - VTM
  - Deep learning
  - End-to-end compression
@@ -54,10 +56,10 @@ education:
    date: 2016
    subject: Electroics and Telecommunication Engineering
    school: University of Moratuwa, Sri Lanka
- - level: Bachelor of Science (B.Sc.)
-   date: 2016
-   subject: Electroics and Telecommunication Engineering
-   school: University of Moratuwa, Sri Lanka
+ - level: Intern Software Engineer 
+   date: 2015
+   subject: CodeGen Pvt. Ltd., Sri Lanka
+   school: Developed a Face recognition system with 93% accuracy using Harr wavelet features for the company use with Visual studio and OpenCV.
 
 
 #This section is optional (as is the image link below)
