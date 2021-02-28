@@ -29,6 +29,27 @@
 
 }
 
+.label-info2, .badge-info2 {
+	background-color: MediumSeaGreen;
+	text-shadow:none;
+	font-weight: normal;
+
+}
+
+.label-info3, .badge-info3 {
+	background-color: SlateBlue;
+	text-shadow:none;
+	font-weight: normal;
+
+}
+
+.label-info4, .badge-info4 {
+	background-color: Tomato;
+	text-shadow:none;
+	font-weight: normal;
+
+}
+
 /** Flat Buttons **/
 .btn {
 	text-shadow: none;
