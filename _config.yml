@@ -158,7 +158,7 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
- I'm a PhD candidate in Electrical & Computer Engineering at University of California, Davis supervised by Prof. Zhi Ding. This is my homepage.
+ I'm a PhD candidate in Electrical & Computer Engineering at <b>University of California, Davis</b> supervised by Prof. Zhi Ding. This is my homepage.
 intro2: |
  My research focus is bandwidth constrained End-to-end image/video compression with deep learninig. I'm passionate about computer vision, signal estimation and detection and internet of Things (IoT).
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
