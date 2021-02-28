@@ -6,19 +6,15 @@
 		<div class="content-rounded-panel">
 			<div id="courseraPanel">
 				{% for course in site.coursera.courses %}
-				<div class="row">
-					{% if course.optionalimage %}
-						<div class="col-sm-5">
-							<img src="{{course.optionalimage}}" width="245">
-						</div>
-					{% endif %}
-					<div class="col-sm-6">
-						<a target='_blank' href="{{course.link}}">
+					<a target='_blank' href="{{course.link}}">
 							{{course.title}}
-						</a><br/>
-						<i>{{course.date}}</i>
-					</div>
-				</div><br/>
+					</a><br/>
+					<i>{{course.date}}</i>
+					<br/>
+					{% if course.optionalimage %}
+					<img src="{{course.optionalimage}}" width="245">
+					{% endif %}
+				<br/>
 				{% endfor %}
 			</div>
 		</div>
