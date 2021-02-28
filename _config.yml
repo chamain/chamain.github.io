@@ -101,6 +101,10 @@ coursera:
       link: https://arxiv.org/abs/1909.05638
       optionalimage: img/fasterj2k.png
       date: 2019
+    - title: 3D reconstruction of buidings for oculus-rift
+      link: https://drive.google.com/file/d/0BxTXVf2HbvGNSm1OeDU5bC1wMkE/view?usp=sharing
+      optionalimage: img/3drecon.png
+      date: 2016
     - title: Brain Image Registration
       link: https://ieeexplore.ieee.org/abstract/document/7843407
       optionalimage: img/stitch.png
