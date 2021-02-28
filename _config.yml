@@ -111,7 +111,7 @@ coursera:
       date: 2016
       
 # class projects      
-classproject:
+classprojects:
    profileurl: https://scholar.google.com/citations?user=cQAkxu4AAAAJ&hl=en
    courses:
     - title: Image Completion challenge
