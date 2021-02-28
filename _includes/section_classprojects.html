@@ -1,0 +1,23 @@
+{% if site.coursera %}
+	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Class projects</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="classprojectPanel">
+				{% for course in site.classproject.courses %}
+					<a target='_blank' href="{{course.link}}">
+							{{course.title}}
+					</a><br/>
+					<i>{{course.date}}</i>
+					<br/>
+					{% if course.optionalimage %}
+					<img src="{{course.optionalimage}}" width="245">
+					{% endif %}
+				<br/>
+				<hr size="3">
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+{% endif %}
