@@ -204,6 +204,13 @@ img {
 	border-style: none;
 }
 
+h0 {
+	color:#696969;
+	font-size:30px;
+	margin-bottom:15px;
+	font-weight: 200;
+}
+
 h1 {
 	color:white;
 	font-size:20px;
