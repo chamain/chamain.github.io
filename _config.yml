@@ -17,19 +17,26 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Python
- - C, C++
- - Matlab
- - Image/video compression
- - JPEG2000
- - Unity
- - Online MP game developement
- - VTM
- - Deep learning
- - End-to-end compression
- - Pytorch
- - Tensorflow
- - IoT
+ coding:
+  - Python
+  - C
+  - C++
+  - Matlab
+ codecs:
+  - JPEG
+  - J2k
+  - AVC/H.264
+  - VVC/VTM-8.2
+ deeplearning:
+  - Pytorch
+  - Tensorflow
+  - keras
+  - Image/video compression
+  - End-to-end compression
+ extras:
+  - Unity
+  - Online MP game developement
+  - IoT
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
