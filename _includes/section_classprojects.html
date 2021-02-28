@@ -1,11 +1,11 @@
-{% if site.coursera %}
+{% if site.classprojects %}
 	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
 			<h1>Class projects</h1>
 		</div>
 		<div class="content-rounded-panel">
 			<div id="classprojectPanel">
-				{% for course in site.classproject.courses %}
+				{% for course in site.classprojects.courses %}
 					<a target='_blank' href="{{course.link}}">
 							{{course.title}}
 					</a><br/>
