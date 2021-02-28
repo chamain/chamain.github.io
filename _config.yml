@@ -158,7 +158,7 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
- I'm a PhD candidate in Electrical & Computer Engineering majoring in Signal processing for Image Analysis and minoring in Machine learning at University of California Davis, USA. I obtained my Masters degree in ECE from UC Davis in 2020 and Bachelors degree from University of Moratuwa, Sri Lanka in 2016 majoring Electronics and Telecommunication.
- 
- My research interests align with image/video compression for deep learning, Internet of Things and Information theory. I'm a hiker and a food enthusiast. 
+ I'm a PhD candidate in Electrical & Computer Engineering at University of California, Davis supervised by Prof. Zhi Ding. This is my homepage.
+intro2: |
+ My research focus is bandwidth constrained End-to-end image/video compression with deep learninig. I'm passionate about computer vision, signal estimation and detection and internet of Things (IoT).
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
