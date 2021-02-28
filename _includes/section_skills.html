@@ -6,9 +6,22 @@
 	<div class="content-rounded-panel">
 
 		<div id="skills">
-			{% for skill in site.skills %}
+			<p>Coding:
+			{% for skill in site.skills.coding %}
 				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
-			{% endfor %}
+			{% endfor %} </p>
+			<p>Codecs:
+			{% for skill in site.skills.codecs %}
+				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+			{% endfor %} </p>
+			<p>Deep learning:
+			{% for skill in site.skills.deeplearning %}
+				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+			{% endfor %} </p>
+			<p>Extras:
+			{% for skill in site.skills.extras %}
+				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+			{% endfor %} </p>
 		</div>
 	</div>
 </div>
