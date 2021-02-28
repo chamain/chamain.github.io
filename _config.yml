@@ -75,7 +75,7 @@ coursera:
    courses:
     - title: Learning to group for image compression and classification
       link: https://github.com/chamain/Learning-to-group
-      optionalimage: img/groupMain2.png
+      optionalimage: img/groupMain3.png
       date: 2021
     - title: VAE for image compression and classifications
       link: https://github.com/chamain/AE-classifier
