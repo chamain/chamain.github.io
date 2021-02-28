@@ -75,19 +75,19 @@ coursera:
    courses:
     - title: Learning to group for image compression and classification
       link: https://github.com/chamain/Learning-to-group
-      optionalimage: img/quannet.png
+      optionalimage: img/groupMain2.png
       date: 2021
     - title: VAE for image compression and classifications
       link: https://github.com/chamain/AE-classifier
-      optionalimage: img/quannet.png
+      optionalimage: img/EncClassRec.png
       date: 2020
     - title: End-to-end image compression for multiple tasks
       link: https://arxiv.org/pdf/2011.06409.pdf
-      optionalimage: img/quannet.png
+      optionalimage: img/multitask.png
       date: 2020
     - title: End-to-end compression for object detection
       link: https://arxiv.org/pdf/2011.06409.pdf
-      optionalimage: img/quannet.png
+      optionalimage: img/cocoV4_4.png
       date: 2020
     - title: QuanNet
       link: https://ieeexplore.ieee.org/abstract/document/8784889
