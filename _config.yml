@@ -116,15 +116,15 @@ classprojects:
    courses:
     - title: Image Completion challenge
       link: https://github.com/chamain/Learning-to-group
-      optionalimage: img/groupMain2.png
+      optionalimage: 
       date: 2019
     - title: Kaggle fashion challenge
       link: https://github.com/chamain/AE-classifier
-      optionalimage: img/EncClassRec.png
+      optionalimage: 
       date: 2018
     - title: Brain image registration with contstrained optimization
       link: https://arxiv.org/pdf/2011.06409.pdf
-      optionalimage: img/multitask.png
+      optionalimage: 
       date: 2019
  
 #This section is optional - embeds slideshows from speakerdeck
