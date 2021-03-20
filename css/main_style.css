@@ -421,3 +421,6 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+.brightness a:hover {
+    opacity: .5;
+}
